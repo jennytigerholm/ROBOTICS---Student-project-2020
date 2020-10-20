@@ -4,8 +4,7 @@
 
 #### 2) Membrane properties in small cutaneous nerve fibers in humans, Kristian Hennings, Ken Steffen Frahm, Laura Petrini, Ole K Andersen, Lars Arendt-Nielsen, Carsten D Mørch, Muscle Nerve, 2017, 55:195-201. 
 
-#### 3) Preferential activation of small cutaneous fibers through small pin electrode also depends on the shape of a long duration electrical current, Hugosdottir R, Mørch CD, Andersen OK, Helgason T, Arendt-Nielsen L.
-BMC Neurosci. 2019, 20:48. 
+#### 3) Preferential activation of small cutaneous fibers through small pin electrode also depends on the shape of a long duration electrical current, Hugosdottir R, Mørch CD, Andersen OK, Helgason T, Arendt-Nielsen L., BMC Neurosci. 2019, 20:48. 
 
 
 
